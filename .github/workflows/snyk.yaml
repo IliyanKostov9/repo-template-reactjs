@@ -1,4 +1,4 @@
-name: Snyk scan for Python
+name: Snyk scan for JavaScript
 on: push
 jobs:
   security:
